@@ -8,7 +8,7 @@ Need to create an application to calculate the area of a circle and a triangle. 
 1. Clone the project from the repository:
 
 ```bash
-git clone git@github.com:den01101/snonio.git
+git clone git@github.com:den01101/snovio.git
 ```
 
 2. Start and build containers
