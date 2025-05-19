@@ -1,4 +1,7 @@
-# NuxGame Test Task (by Vitalii Hava)
+# Snov.io Test Task (by Vitalii Hava)
+
+# Description
+Need to create an application to calculate the area of ​​a circle and a triangle. Expand the application with other types of figures
 
 ## 🚀 Installation
 
